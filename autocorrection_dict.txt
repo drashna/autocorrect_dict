@@ -44,6 +44,7 @@
 :lveo               -> love
 :lvoe               -> love
 :milion             -> million
+:nad:               -> and
 :nto:               -> not
 :ocuntry            -> country
 :ocur               -> occur
@@ -1269,6 +1270,7 @@ equivelent          -> equivalent
 equivilant          -> equivalent
 equivilent          -> equivalent
 equivlalent         -> equivalent
+ergard              -> Regard
 errupted            -> erupted
 esential            -> essential
 esitmated           -> estimated
@@ -2551,6 +2553,7 @@ realsitic           -> realistic
 realtion            -> relation
 realy:              -> really
 realyl              -> really
+reards              -> Regards
 reasearch           -> research
 rebiulding          -> rebuilding
 rebllions           -> rebellions
@@ -3086,7 +3089,3 @@ yeasr               -> years
 yeild               -> yield
 yersa               -> years
 youself             -> yourself
-
-:nad:  -> and
-reards -> Regards
-ergards -> Regards
