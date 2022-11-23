@@ -64,6 +64,7 @@
 :persan:            -> person
 :planation          -> plantation
 :poulation          -> population
+:puting             -> putting
 :quitted            -> quit
 :repid              -> rapid
 :rference           -> reference
@@ -2532,7 +2533,6 @@ purposedly          -> purposely
 purpotedly          -> purportedly
 pursuade            -> persuade
 pususading          -> persuading
-puting              -> putting
 pwoer               -> power
 pyscic              -> psychic
 quantaty            -> quantity
