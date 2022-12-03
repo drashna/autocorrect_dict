@@ -22,6 +22,7 @@
 :atthe              -> at the
 :choses             -> chooses
 :eratic             -> erratic
+:ergard              -> Regard
 :esle               -> else
 :grammer            -> grammar
 :gt:                -> git
@@ -64,8 +65,8 @@
 :persan:            -> person
 :planation          -> plantation
 :poulation          -> population
-:puting             -> putting
 :quitted            -> quit
+:reards             -> Regards
 :repid              -> rapid
 :rference           -> reference
 :scoll:             -> scroll
@@ -1271,7 +1272,6 @@ equivelent          -> equivalent
 equivilant          -> equivalent
 equivilent          -> equivalent
 equivlalent         -> equivalent
-ergard              -> Regard
 errupted            -> erupted
 esential            -> essential
 esitmated           -> estimated
@@ -1527,6 +1527,7 @@ gutteral            -> guttural
 habaeus             -> habeas
 habeus              -> habeas
 haemorrage          -> haemorrhage
+haer                -> hear
 halarious           -> hilarious
 happend             -> happened
 happenned           -> happened
@@ -2533,6 +2534,7 @@ purposedly          -> purposely
 purpotedly          -> purportedly
 pursuade            -> persuade
 pususading          -> persuading
+puting              -> putting
 pwoer               -> power
 pyscic              -> psychic
 quantaty            -> quantity
@@ -2553,7 +2555,6 @@ realsitic           -> realistic
 realtion            -> relation
 realy:              -> really
 realyl              -> really
-reards              -> Regards
 reasearch           -> research
 rebiulding          -> rebuilding
 rebllions           -> rebellions
