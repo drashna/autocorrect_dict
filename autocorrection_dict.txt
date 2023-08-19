@@ -9,7 +9,7 @@
 :adn:               -> and
 :aganist            -> against
 :agian              -> again
-:agin               -> again
+:agin:              -> again
 :agre:              -> agree
 :alege              -> allege
 :alot:              -> a lot
@@ -18,11 +18,11 @@
 :anual              -> annual
 :asign              -> assign
 :aslo:              -> also
-:asthe              -> as the
+:asthe:             -> as the
 :atthe              -> at the
 :choses             -> chooses
 :eratic             -> erratic
-:ergard              -> Regard
+:ergard             -> Regard
 :esle               -> else
 :grammer            -> grammar
 :gt:                -> git
@@ -63,7 +63,6 @@
 :peice              -> piece
 :peom:              -> poem
 :persan:            -> person
-:planation          -> plantation
 :poulation          -> population
 :quitted            -> quit
 :reards             -> Regards
@@ -93,7 +92,7 @@
 :tghe:              -> the
 :the:the:           -> the
 :theri:             -> their
-:thier              -> their
+:thier:             -> their
 :thn:               -> then
 :thna:              -> than
 :thne:              -> then
@@ -153,6 +152,8 @@ absail              -> abseil
 abscence            -> absence
 absense             -> absence
 absolutly           -> absolutely
+absoultly           -> absolutely
+absoultely          -> absolutely
 absorbsion          -> absorption
 absorbtion          -> absorption
 abudance            -> abundance
@@ -288,11 +289,12 @@ aicraft             -> aircraft
 aiport              -> airport
 airbourne           -> airborne
 aircaft             -> aircraft
-aircrafts           -> aircraft
+aircrafts:          -> aircraft
 airporta            -> airports
 airrcraft           -> aircraft
 aisian              -> asian
 aknowledge          -> acknowledge
+:albe:              -> able
 albiet              -> albeit
 alchohol            -> alcohol
 alchol              -> alcohol
@@ -715,6 +717,7 @@ charasmatic         -> charismatic
 charaterized        -> characterized
 chariman            -> chairman
 charistics          -> characteristics
+checkotu            -> checkout
 cheif               -> chief
 chekc               -> check
 chemcial            -> chemical
@@ -809,6 +812,7 @@ comparision         -> comparison
 comparitive         -> comparative
 compatabilities     -> compatibilities
 compatability       -> compatibility
+compatibitly        -> compatibility
 compatable          -> compatible
 compatablities      -> compatibilities
 compatablity        -> compatibility
@@ -828,6 +832,7 @@ completedthe        -> completed the
 completelyl         -> completely
 completetion        -> completion
 complier            -> compiler
+compliation         -> compilation
 componant           -> component
 comprable           -> comparable
 comprimise          -> compromise
@@ -1029,6 +1034,8 @@ densly              -> densely
 deparment           -> department
 dependance          -> dependence
 dependancy          -> dependency
+depricate          -> deprecated
+depreciate         -> deprecate
 deriviated          -> derived
 derivitive          -> derivative
 derogitory          -> derogatory
@@ -1068,7 +1075,7 @@ deterioriating      -> deteriorating
 determinining       -> determining
 detremental         -> detrimental
 devasted            -> devastated
-develope            -> develop
+develope:           -> develop
 developped          -> developed
 develpment          -> development
 devels              -> delves
@@ -1187,6 +1194,7 @@ efficency           -> efficiency
 efficent            -> efficient
 effulence           -> effluence
 :eiter              -> either
+:eather             -> either
 elasped             -> elapsed
 elction             -> election
 electrial           -> electrical
@@ -1565,6 +1573,7 @@ heroe:              -> hero
 heros               -> heroes
 hertiage            -> heritage
 hertzs              -> hertz
+hesitaet            -> hesitate
 hesistant           -> hesitant
 heterogenous        -> heterogeneous
 hieght              -> height
@@ -1881,7 +1890,7 @@ lippizaner          -> lipizzaner
 liquify             -> liquefy
 liscense            -> license
 lisence             -> license
-lisense             -> license
+:lisense             -> license
 listner             -> listener
 litature            -> literature
 literaly            -> literally
@@ -1967,6 +1976,7 @@ membranaphone       -> membranophone
 memeber             -> member
 menally             -> mentally
 mercentile          -> mercantile
+mereg               -> merge
 mesage              -> message
 messanger           -> messenger
 messenging          -> messaging
@@ -2027,6 +2037,7 @@ moent               -> moment
 moeny               -> money
 moleclues           -> molecules
 momento:            -> memento
+momentraily         -> momentarily
 monestaries         -> monasteries
 monickers           -> monikers
 monolite            -> monolithic
@@ -2235,6 +2246,8 @@ pasttime            -> pastime
 pastural            -> pastoral
 paticular           -> particular
 pattented           -> patented
+paturn              -> pattern
+patturn             -> pattern
 pavillion           -> pavilion
 payed               -> paid
 pblisher            -> publisher
@@ -2305,7 +2318,7 @@ phongraph           -> phonograph
 phylosophical       -> philosophical
 physicaly           -> physically
 piblisher           -> publisher
-pich                -> pitch
+:pich:              -> pitch
 pilgrimmage         -> pilgrimage
 pinapple            -> pineapple
 pinnaple            -> pineapple
@@ -2534,18 +2547,19 @@ purposedly          -> purposely
 purpotedly          -> purportedly
 pursuade            -> persuade
 pususading          -> persuading
-puting              -> putting
+:puting              -> putting
 pwoer               -> power
 pyscic              -> psychic
 quantaty            -> quantity
 quantitiy           -> quantity
 quarantaine         -> quarantine
 quarentine          -> quarantine
-questonable         -> questionable
+quesion             -> question
+questin:            -> question
+queston             -> question
 quicklyu            -> quickly
 quinessential       -> quintessential
 quizes              -> equizzes
-questino            -> question
 raelly              -> really
 reaccurring         -> recurring
 reacing             -> reaching
@@ -2617,7 +2631,9 @@ refridgerator       -> refrigerator
 refromist           -> reformist
 refusla             -> refusal
 regads              -> Regards
+regrds              -> Regards
 regardes            -> regards
+regrads             -> Regards
 regluar             -> regular
 reguarly            -> regularly
 regulaion           -> regulation
@@ -2691,7 +2707,7 @@ repubican           -> republican
 repubics            -> republics
 republi:            -> republic
 republian:          -> republican
-republis            -> republics
+:republis           -> republics
 repulic:            -> republic
 repulican           -> republican
 repulics            -> republics
@@ -2761,7 +2777,7 @@ rougly              -> roughly
 rucuperate          -> recuperate
 rudimentatry        -> rudimentary
 rulle               -> rule
-runing              -> running
+:runing             -> running
 runnung             -> running
 rwite               -> write
 rythem              -> rhythm
@@ -2786,7 +2802,7 @@ secretery           -> secretary
 seeked              -> sought
 segementation       -> segmentation
 seige               -> siege
-seing               -> seeing
+:seing              -> seeing
 seinor              -> senior
 senarios            -> scenarios
 senstive            -> sensitive
@@ -2805,8 +2821,8 @@ shaddow             -> shadow
 sheild              -> shield
 sherif:             -> sheriff
 shineing            -> shining
-shiped              -> shipped
-shiping             -> shipping
+:shiped             -> shipped
+:shiping            -> shipping
 sholud              -> should
 shopkeeepers        -> shopkeepers
 shorly              -> shortly
@@ -2814,6 +2830,8 @@ shoudl              -> should
 shreak              -> shriek
 shrinked            -> shrunk
 shure               -> sure
+shutdonw            -> shutdown
+shutodwn            -> shutdown
 sicne               -> since
 siezure             -> seizure
 siginificant        -> significant
@@ -2842,7 +2860,7 @@ soley               -> solely
 solice              -> solace
 soliders            -> soldiers
 somehwat            -> somewhat
-somene              -> someone
+:somene             -> someone
 somtimes            -> sometimes
 somwhere            -> somewhere
 sophicated          -> sophisticated
@@ -2978,7 +2996,7 @@ thoughout           -> throughout
 threatend           -> threatened
 threee              -> three
 thresold            -> threshold
-thrid               -> third
+:thrid              -> third
 thsoe               -> those
 tht:                -> that
 thyat               -> that
@@ -2990,7 +3008,7 @@ tlaking             -> talking
 todya               -> today
 toghether           -> together
 tolerence           -> tolerance
-tomatos             -> tomatoes
+:tomatos            -> tomatoes
 tommorow            -> tomorrow
 tommorrow           -> tomorrow
 tongiht             -> tonight
@@ -3060,7 +3078,7 @@ violentce           -> violence
 virtualy            -> virtually
 virutal:            -> virtual
 virutally           -> virtually
-visably             -> visibly
+:visably            -> visibly
 visious             -> vicious
 visting             -> visiting
 vistors             -> visitors
@@ -3086,7 +3104,21 @@ wriet               -> write
 writen              -> written
 wroet               -> wrote
 wupport             -> support
+yaeh                -> yeah
 yeasr               -> years
 yeild               -> yield
 yersa               -> years
 youself             -> yourself
+
+:viola:  -> voila
+assistence -> assistance
+mcuh      -> much
+dosen     -> doesn't
+
+lciense -> license
+
+useing  -> using
+fecth -> fetch
+
+:hte -> the
+:ot: -> to
